@@ -12,21 +12,8 @@ The dataset used in this project is available [here](https://archive.ics.uci.edu
 
 The dataset contains count of public bicycles rented per hour in the Seoul Bike Sharing System, with corresponding weather data and holiday information.
 
-<style>
-    table, tr, td {
-        border: none!important;
-    }
-</style>
-<table>
-    <tr>
-        <td># Features</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td># Records</td>
-        <td>8760</td>
-    </tr>
-</table>
+\# Features **13**  
+\# Records **8760**
 
 ## Methods Used
 
